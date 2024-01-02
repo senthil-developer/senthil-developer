@@ -1,4 +1,4 @@
- <h1 align="center">Hi  👋,My name is Senthil</h1>
+ <h1 align="center">Hi (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),My name is Senthil</h1>
 <h1 align="center">Frontend Developer</h1>
 ------------------
 
@@ -7,8 +7,8 @@ I love coding!
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My website](http://movieuniverse.vercel.app/)
 * ✉️  You can contact me at [senthildeveloper4@gmail.com](mailto:senthildeveloper4@gmail.com)
-* 🚀  I'm currently working on [Three mediapipe](http://threejs-mediapipe.vercel.app)
-* 🧠  I'm learning Three js , R3F, 3d , Blender
+* 🚀  I'm currently working on [Three mediapipe](http://threejsgame.vercel.app)
+* 🧠  I'm learning Three js , R3F, Socket.io, Blender
 * 🤝  I'm open to collaborating on Threejs and R3f projects
 
 ### Skills
