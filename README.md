@@ -1,5 +1,5 @@
  <h1 align="center">Hi👋,I'm Senthil</h1>
-<h1 align="center">Frontend Developer</h1>
+<h1 align="center">MERN STACK/3D WEB Developer</h1>
 ------------------
 
 I love coding!
@@ -7,7 +7,7 @@ I love coding!
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My website](http://movieuniverse.vercel.app/)
 * ✉️  You can contact me at [senthildeveloper4@gmail.com](mailto:senthildeveloper4@gmail.com)
-* 🚀  I'm currently working on [ multiplayer game using Threejs,socket.io](http://threejsgame.vercel.app)
+* 🚀  I'm currently working on [ multiplayer game using Threejs,socket.io](http://threejsgame.vercel.app by)
 * 🧠  I'm learning Three js , R3F, Socket.io, Blender
 * 🤝  I'm open to collaborating on Threejs and R3f projects
 
